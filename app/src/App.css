@@ -1,0 +1,25 @@
+.body{margin:0px;padding:0px}
+.container{
+  width:1200px;
+  margin:0 auto;
+  padding-top:30px;
+}
+input{
+  outline:none;
+  border:1px solid #ccc;
+  border-radius:4px;
+  height:30px;  
+  width:300px;
+  font-size: 20px;
+  padding:10px;
+}
+.doneBtn{
+  width:50px;
+  display:inline-block;
+  border:1px solid blue;
+  color:blue;
+  border-radius: 4px;
+  height:30px;
+  margin-left:40px;
+  padding:10px;
+}
